@@ -1,0 +1,31 @@
+{
+  "name": "cfsv_wod_feed",
+  "version": "1.0.0",
+  "description": "CFSV WOD Feed",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "feed": "^1.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldodge79/cfsv_wod_feed.git"
+  },
+  "author": "joeldodge@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeldodge79/cfsv_wod_feed/issues"
+  },
+  "homepage": "https://github.com/joeldodge79/cfsv_wod_feed#readme"
+}
